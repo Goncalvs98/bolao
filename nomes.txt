@@ -1,0 +1,32 @@
+ALI,Alianza Lima
+CAP,Athletico Paranaense
+STG,The Strongest
+RVP,River Plate
+AGJ,Argentinos Junior
+IDV,Independiente del Valle
+IDM,Independiente Medelin
+INT,Internacional
+MTR,Metropolitanos
+NCL,Nacional do Uruguai
+AUC,AUCAS
+FLA,Flamengo
+PTT,Patronato
+ATN,Atletico Nacional
+CRP,Cerro Porteno
+BAR,Barcelona
+NUB,Nublense
+RCG,Racing
+SCL,Sporting Cristal
+FLU,Fluminense
+BOL,Bolivar
+PAL,Palmeiras
+DEP,Deportivo Pereira
+COL,ColoColo
+LVP,Liverpool
+COR,Corinthians
+CAM,Atlético Mineiro
+LIB,Libertad
+MON,Monogas
+BOJ,Boca Juniors
+MEL,Melgar
+OLP,Olimpia
