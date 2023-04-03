@@ -24,7 +24,7 @@ DEP,Deportivo Pereira
 COL,ColoColo
 LVP,Liverpool
 COR,Corinthians
-CAM,Atlético Mineiro
+CAM,Atletico Mineiro
 LIB,Libertad
 MON,Monogas
 BOJ,Boca Juniors
